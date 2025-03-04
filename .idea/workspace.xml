@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="808d3769-9365-4247-908d-1ccda8287a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GameVerse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnorDieL1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMLevel1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMLevel2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMLevel3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreasureHunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Bggameverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Gameover.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/HomeBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/O.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Rabbit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Rabbit.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Signup_button_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Signup_button_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Signup_entry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/X.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/backgroundgame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/murderMysteryassets/bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rabbit1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rabbit2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/Background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/Stone.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/Stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/Tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/Trees.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/cotton-candy-children-puzzle-game-music-197733.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/diamond.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/short-success-sound-glockenspiel-treasure-video-game-6346.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/skeleton.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tressurehuntassets/sword-slash-and-swing-185432.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/unlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wronganswersound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/murderMystery.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qZYgMcD5OrWgYCBDQT0oNFBF5R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Authentication.executor": "Run",
+    "Python.Authenticationzoomed.executor": "Run",
+    "Python.Game1.executor": "Run",
+    "Python.GameVersion.executor": "Run",
+    "Python.Home.executor": "Run",
+    "Python.LearnorDie.executor": "Run",
+    "Python.Learnordie.executor": "Run",
+    "Python.MMLevel1.executor": "Run",
+    "Python.MMLevel2.executor": "Run",
+    "Python.MMLevel3.executor": "Run",
+    "Python.Tic-Tac-Toe.executor": "Run",
+    "Python.TreasureHunt.executor": "Run",
+    "Python.gui.executor": "Run",
+    "Python.murderMystery.executor": "Run",
+    "Python.newgame.executor": "Run",
+    "Python.platformer.executor": "Run",
+    "Python.shreya.executor": "Run",
+    "Python.temp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jhasa/OneDrive/Desktop/GameVerse/GameVerse/assets/murderMysteryassets"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets\murderMysteryassets" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets\tressurehuntassets" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets\frame0" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets" />
+      <recent name="C:\Users\jhasa\OneDrive\Desktop\GameVerse\GameVerse\assets\frame0" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808d3769-9365-4247-908d-1ccda8287a6f" name="Changes" comment="" />
+      <created>1734871675062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734871675062</updated>
+    </task>
+    <servers />
+  </component>
+</project>
